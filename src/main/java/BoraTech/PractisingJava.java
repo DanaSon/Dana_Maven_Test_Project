@@ -7,6 +7,8 @@ public class PractisingJava {
 		
 		System.out.println("Today we are three people in group study");
 		
+		System.out.println(" This is my third workday");
+		
 	}
 
 }
